@@ -1,0 +1,5 @@
+descricao,data_vencimento,valor,email,pago
+Conta de Luz,2024-09-25,150.00,familia@example.com,não
+Conta de Água,2024-09-28,80.00,familia@example.com,não
+Netflix,2024-10-01,45.00,familia@example.com,não
+Cartão de Crédito,2024-09-30,300.00,familia@example.com,não
